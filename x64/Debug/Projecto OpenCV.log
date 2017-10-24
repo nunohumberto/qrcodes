@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\nuno humberto\desktop\recovered\cv - detecting and decoding qr codes\projecto opencv\source.cpp(544): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\nuno humberto\desktop\recovered\cv - detecting and decoding qr codes\projecto opencv\source.cpp(625): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Projecto OpenCV.vcxproj -> C:\Users\Nuno Humberto\Desktop\RECOVERED\CV - Detecting and Decoding QR Codes\Projecto OpenCV\x64\Debug\Projecto OpenCV.exe
